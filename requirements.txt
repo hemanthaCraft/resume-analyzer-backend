@@ -3,6 +3,8 @@ Flask
 Flask-Cors
 Werkzeug
 gunicorn
+Flask-Mail==0.9.1
+
 
 # --- File Handling ---
 PyPDF2
@@ -36,6 +38,7 @@ matplotlib
 
 
 #python -m spacy download en_core_web_sm
+
 
 
 
